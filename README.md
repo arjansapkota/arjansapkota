@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjan!</h1>
-<h3 align="center">A passionate Computer Engineering student with a strong interest for video game development.This GitHub profile showcases my personal and collaborative projects. I’m always looking to learn and collaborate on new projects.</h3>
+<h3 align="center">A passionate Computer Engineering student with a strong interest for 3d animation.This GitHub profile showcases my personal and collaborative projects. I’m always looking to learn and collaborate on new projects.</h3>
 
 - 📫 Feel free to reach me at **sapkota.arjan12@gmail.com**
 
