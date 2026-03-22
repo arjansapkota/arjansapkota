@@ -1,14 +1,53 @@
-<h1 align="center">Hi 👋, I'm Arjan!</h1>
-<h3 align="center">A passionate Computer Engineer with a strong interest for 3d animation.This GitHub profile showcases my personal and collaborative projects. Always looking to learn and collaborate on new projects.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Arjan!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Co-Founder%20of%20Itinella&descAlignY=51&descAlign=62" alt="Header" />
+</div>
 
-- 📫 Feel free to reach me at **sapkota.arjan12@gmail.com**
+<h3 align="center">Building scalable, AI-powered tech to connect the world.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/arjan-sapkota-a06129279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjan-sapkota-a06129279" height="30" width="40" /></a>
-<a href="https://www.facebook.com/arjan.sapkota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arjan.sapkota/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/xpkt_arzan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/xpkt_arzan_/" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/arjansapkota">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Machine+Learning+%26+AI+Enthusiast;Building+Itinella's+Travel-Tech" alt="Typing SVG" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me
+
+* 🎓 I hold a Bachelor's in Computer Engineering from **Tribhuvan University (IOE)**.
+* 🔬 I've previously worked as an ML Intern at Fusemachines and published research on generating synthetic Electronic Health Records using CTGANs, Transformers, and Diffusion Models. 
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <h4>Languages & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,express,unrealengine,blender" />
+  <br>
+  <h4>AI, Data & Infrastructure</h4>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,git,github" />
+</div>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjansapkota&theme=tokyonight&hide_border=true&background=0D1117" alt="Arjan's Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjansapkota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+</div>
+
+---
+
+### 🚀 Let's Connect!
+
+<div align="center">
+  <a href="mailto:sapkota.arjan12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/arjan-sapkota-a06129279">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://itinella.com">
+    <img src="https://img.shields.io/badge/Itinella-1E1E1E?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+  </a>
+</div>
+
+<br>
