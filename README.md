@@ -30,10 +30,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjansapkota&theme=tokyonight&hide_border=true&background=0D1117" alt="Arjan's Streak" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjansapkota&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
-</div>
-
 ---
 
 ### 🚀 Let's Connect!
