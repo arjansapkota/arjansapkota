@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Arjan!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Co-Founder%20of%20Itinella&descAlignY=51&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Arjan!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer&descAlignY=51&descAlign=62" alt="Header" />
 </div>
-
-<h3 align="center">Building scalable, AI-powered tech to connect the world.</h3>
 
 <div align="center">
   <a href="https://github.com/arjansapkota">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Machine+Learning+%26+AI+Enthusiast;Building+Itinella's+Travel-Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Machine+Learning+%26+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 ### 👨‍💻 About Me
 
 * 🎓 I hold a Bachelor's in Computer Engineering from **Tribhuvan University (IOE)**.
-* 🔬 I've previously worked as an ML Intern at Fusemachines and published research on generating synthetic Electronic Health Records using CTGANs, Transformers, and Diffusion Models. 
+* 🔬 I've previously worked as an ML Intern at Fusemachines and have published a research on generating synthetic Electronic Health Records using CTGANs, Transformers, and Diffusion Models. 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
